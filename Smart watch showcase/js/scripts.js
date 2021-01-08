@@ -102,7 +102,7 @@ $(document).ready(function() {
     $(".img-box").owlCarousel({
         items: 1,
         smartSpeed: 300,
-        mouseDrag: false,
+        mouseDrag: true,
         pullDrag: false,
         dots: false,
         nav: true,
